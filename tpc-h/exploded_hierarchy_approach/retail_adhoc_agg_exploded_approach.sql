@@ -1,6 +1,6 @@
 /* -------------------------------------------------------------------------
 File:     retail_adhoc_aggregation_exploded_approach.sql
-Author:   Philip Moore (philip@voltrondata.com)
+Author:   Philip Moore (philip@gizmodata.com)
 Date:     28-JUL-2022
 Purpose:  This query against TPC-H is intended to perform an adhoc aggregation
           with a high-cardinality GROUP BY - with large aggregation ROLLUPs along
